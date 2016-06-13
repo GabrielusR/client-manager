@@ -47,7 +47,7 @@
                 <li><a href="add.php">Adicionar cliente</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <p class="navbar-text">&nbsp;&nbsp; Bem vindo, gabriel!</p>
+                <p class="navbar-text">&nbsp;&nbsp; Bem vindo, gabrielr!</p>
                 <li><a href="logout.php">Sair</a></li>
             </ul>
             <?php
