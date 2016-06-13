@@ -62,7 +62,7 @@
             }
     ?>
         <tr>
-            <td colspan="7"><div class="text-center"><a href="add.php" class="btn btn-sm btn-success"><span class="glyphicon glyphicon-plus"></span> Add Client</a></div></td>
+            <td colspan="7"><div class="text-center"><a href="add.php" class="btn btn-sm btn-success"><span class="glyphicon glyphicon-plus"></span> Adicionar Cliente</a></div></td>
         </tr>
     <?php
         } else {
