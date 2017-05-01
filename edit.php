@@ -79,7 +79,7 @@
     }
     
     mysqli_close($conn);
-?>
+?>    
 
 <div class="container">
 <h1>Editar cliente</h1>

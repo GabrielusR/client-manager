@@ -1,7 +1,7 @@
 <?php
 $conn_server    = "localhost";
 $conn_username  = "root";
-$conn_password  = "root";
+$conn_password  = "";
 $conn_db        = "db_clientaddressbook";
 
 // Create connection

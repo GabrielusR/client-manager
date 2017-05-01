@@ -28,7 +28,7 @@ if(isset($_POST["login"])) {
             $dbPass = $row["password"];
         }
         // Verify hashed password
-        if(password_verify($password, $dbPass)) {
+        if($password == $dbPass) {
             // Set $_SESSION variables to //authenticated user data
             $_SESSION["loggedInUser"] = $dbName;
 
